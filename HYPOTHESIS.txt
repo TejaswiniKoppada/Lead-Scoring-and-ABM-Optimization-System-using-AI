@@ -1,0 +1,11 @@
+Q1. What does the hypothesis (h (x)) represent in machine learning?
+
+a) The target variable to be predicted.
+
+b) The predicted output based on the input features and model parameters.
+
+c) The features of the dataset.
+
+d) The ground truth or actual output of the training data
+
+Correct answer : b)
