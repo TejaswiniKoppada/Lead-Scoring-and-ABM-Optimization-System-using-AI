@@ -86,7 +86,7 @@ We welcome contributions! Please fork the repository and create a pull request.
 ---
 
 <div align="center">
-  <p>Made by Syed Abdul Kareem Ahmed</p>
-  <p>Last update: June 2025</p>
+  <p>Tejaswini Koppada</p>
+  
 </div>
 
